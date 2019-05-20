@@ -1,5 +1,4 @@
-# cheese
-cheese bot for discord
-
-comes with levelling system and facts;
-says cheese when you say cheese
+#Cheese
+Bot that says cheese when you say cheese
+ 
+ Project discontinued as of 5.20.2019 due to a new discord API update
