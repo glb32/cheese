@@ -1,4 +1,5 @@
 # cheese
 cheese bot for discord
 
-levelling system and facts
+comes with levelling system and facts
+says cheese when you say cheese
